@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: cljsjs/highlight:9.12.0-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cljsjs/highlight/9.12.0-2/highlight-9.12.0-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

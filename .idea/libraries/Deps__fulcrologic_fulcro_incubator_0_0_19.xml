@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: fulcrologic/fulcro-incubator:0.0.19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fulcrologic/fulcro-incubator/0.0.19/fulcro-incubator-0.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

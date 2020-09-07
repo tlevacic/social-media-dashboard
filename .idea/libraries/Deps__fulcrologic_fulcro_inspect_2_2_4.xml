@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: fulcrologic/fulcro-inspect:2.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fulcrologic/fulcro-inspect/2.2.4/fulcro-inspect-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

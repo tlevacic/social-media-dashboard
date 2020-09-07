@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: nubank/workspaces:1.0.15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nubank/workspaces/1.0.15/workspaces-1.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

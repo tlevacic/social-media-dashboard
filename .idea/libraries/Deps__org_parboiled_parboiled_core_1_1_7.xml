@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: org.parboiled/parboiled-core:1.1.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/parboiled/parboiled-core/1.1.7/parboiled-core-1.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

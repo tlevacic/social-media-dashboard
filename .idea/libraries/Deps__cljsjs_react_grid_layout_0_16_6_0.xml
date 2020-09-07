@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: cljsjs/react-grid-layout:0.16.6-0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cljsjs/react-grid-layout/0.16.6-0/react-grid-layout-0.16.6-0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

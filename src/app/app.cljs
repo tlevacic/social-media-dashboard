@@ -2,6 +2,7 @@
   (:require [keechma.next.controllers.router]
             [keechma.next.controllers.dataloader]
             [keechma.next.controllers.subscription]
+            [app.controllers.darkmode]
             ["react-dom" :as rdom]))
 
 (defn page-eq? [page] (fn [{:keys [router]}] (= page (:page router))))
@@ -19,4 +20,5 @@
              :keechma.controller/type :keechma/router,
              :keechma/routes [["" {:page "home"}] ":page" ":page/:subpage"]},
     :dataloader {:keechma.controller/params true,
-                 :keechma.controller/type :keechma/dataloader}}})
+                 :keechma.controller/type :keechma/dataloader}
+    :darkmode {:keechma.controller/params true}}})

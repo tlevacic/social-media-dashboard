@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: codox:0.10.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/codox/codox/0.10.7/codox-0.10.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: binaryage/oops:0.7.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/binaryage/oops/0.7.0/oops-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
